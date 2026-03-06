@@ -1,0 +1,28 @@
+{
+    "f45d6606-8e65-465a-9655-16ec18ed55e9": {
+        "shop_id": "f45d6606-8e65-465a-9655-16ec18ed55e9",
+        "shop_name": "MP Nayak",
+        "username": "mpnayak",
+        "password": "12345678",
+        "location": "Bandra West, Mumbai",
+        "profile_photo": "mpnayak_sahil.png",
+        "status": "Active",
+        "pricing": {
+            "bw": 2.0,
+            "color": 10.0
+        }
+    },
+    "7d40214e-cf27-4660-9fd4-c6aafeadbbae": {
+        "shop_id": "7d40214e-cf27-4660-9fd4-c6aafeadbbae",
+        "shop_name": "xerox",
+        "username": "mallu",
+        "password": "12345678",
+        "location": "Bandra West, Mumbai",
+        "profile_photo": "mallu_Profile-Png.png",
+        "status": "Active",
+        "pricing": {
+            "bw": 3.0,
+            "color": 7.0
+        }
+    }
+}
